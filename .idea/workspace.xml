@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45762ee6-626e-4131-b072-56c05096b5ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/irc_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/irc_backend/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
       <workItem from="1613349064476" duration="4259000" />
       <workItem from="1613404181846" duration="632000" />
       <workItem from="1613446396805" duration="1271000" />
-      <workItem from="1613578405124" duration="14073000" />
+      <workItem from="1613578405124" duration="14693000" />
     </task>
     <servers />
   </component>
