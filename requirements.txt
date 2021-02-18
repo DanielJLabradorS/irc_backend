@@ -4,3 +4,4 @@ django-heroku
 djangorestframework
 channels
 django-cors-headers
+django-csp
