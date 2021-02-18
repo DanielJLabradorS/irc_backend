@@ -111,9 +111,13 @@ WSGI_APPLICATION = 'irc_backend.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
-    "default": {
-        "ENGINE" : "django.db.backends.sqlite3",
-        "NAME": os.path.join(BASE_DIR, "db.sqlite3")
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'irc-database',
+        'USER': 'wlvzflfhmkjqkw',
+        'PASSWORD': 'f8c4751b9002a4af2dbeecbaaceaa865511cbc96f4ee6f95937b3b0bb7ea5669',
+        'HOST': 'ec2-54-90-13-87.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
