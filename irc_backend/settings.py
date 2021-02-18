@@ -31,11 +31,11 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000"
+    "https://irc-redvalley.herokuapp.com"
 ]
 
 CORS_ORIGINS_WHITELIST = [
-    "http://localhost:3000"
+    "https://irc-redvalley.herokuapp.com"
 ]
 
 CORS_ALLOW_METHODS = [
