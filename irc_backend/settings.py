@@ -124,21 +124,21 @@ DATABASES = {
 
 ASGI_APPLICATION = "irc_backend.routing.application"
 
-"""CHANNEL_LAYERS = {
+CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "channels_redis.core.RedisChannelLayer",
         "CONFIG": {
-            "hosts": ['redis://localhost:6379'],
+            "hosts": ['redis://:pae037277fdc3210c232ebd9396f1f0718eb53718f583941b7d4bd0f8927e975a@ec2-54-90-33-141.compute-1.amazonaws.com:11709'],
         },
     },
-}"""
+}
 
 
-CHANNEL_LAYERS = {
+"""CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "channels.layers.InMemoryChannelLayer"
     }
-}
+}"""
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
