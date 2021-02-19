@@ -7,3 +7,4 @@ django-cors-headers
 django-csp
 django-redis-cache
 channels_redis
+daphne
