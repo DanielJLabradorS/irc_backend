@@ -12,6 +12,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="irc_backend/invalid/Python" />
@@ -73,7 +81,7 @@
       <workItem from="1613446396805" duration="1271000" />
       <workItem from="1613578405124" duration="15226000" />
       <workItem from="1613662181064" duration="1199000" />
-      <workItem from="1613692423878" duration="1277000" />
+      <workItem from="1613692423878" duration="2542000" />
     </task>
     <servers />
   </component>
@@ -91,52 +99,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="181" key="#Inspections" timestamp="1613260856879">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1613260856879" />
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613107540651">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613107540651" />
-    <state x="719" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613261152799">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="719" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613261152799" />
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613533585645">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613533585645" />
-    <state x="-29" y="225" width="1720" height="840" key="DiffContextDialog" timestamp="1613626923839">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-29" y="225" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613626923839" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1613268687131">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613268687131" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1613270345478">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613270345478" />
-    <state x="1184" y="270" key="VCS.ChangeListViewerDialog" timestamp="1613626847050">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1184" y="270" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613626847050" />
-    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613692963673">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613692963673" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1613404204927">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613404204927" />
-    <state x="667" y="281" width="586" height="478" key="find.popup" timestamp="1613624326388">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="281" width="586" height="478" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613624326388" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
