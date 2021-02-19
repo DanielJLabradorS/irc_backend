@@ -31,11 +31,11 @@ DEBUG = True
 ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1:8000']
 
 CORS_ALLOWED_ORIGINS = [
-    "http://irc-redvalley-frontend.herokuapp.com"
+    "https://irc-redvalley-frontend.herokuapp.com"
 ]
 
 CORS_ORIGINS_WHITELIST = [
-    "http://irc-redvalley-frontend.herokuapp.com"
+    "https://irc-redvalley-frontend.herokuapp.com"
 ]
 """"
 CORS_ALLOWED_ORIGINS = [
