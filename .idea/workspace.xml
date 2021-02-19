@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45762ee6-626e-4131-b072-56c05096b5ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irc_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/irc_backend/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,14 +13,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="irc_backend/invalid/Python" />
+    </ignored-facets>
+  </component>
   <component name="ProjectId" id="1oMrmyqgsUISx8VI6BJha8ICkdW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -49,6 +55,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,11 +74,24 @@
       <workItem from="1613446396805" duration="1271000" />
       <workItem from="1613578405124" duration="15226000" />
       <workItem from="1613662181064" duration="1199000" />
+      <workItem from="1613692423878" duration="628000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Inspections" timestamp="1613260856879">
@@ -106,10 +126,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1184" y="270" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613626847050" />
-    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613626923839">
+    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613692963673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613626923839" />
+    <state x="200" y="97" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613692963673" />
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1613404204927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

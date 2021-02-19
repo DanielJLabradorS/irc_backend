@@ -37,6 +37,14 @@ CORS_ALLOWED_ORIGINS = [
 CORS_ORIGINS_WHITELIST = [
     "http://irc-redvalley-frontend.herokuapp.com"
 ]
+""""
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000"
+]
+
+CORS_ORIGINS_WHITELIST = [
+    "http://localhost:3000"
+]"""
 
 CORS_ALLOW_METHODS = [
     'DELETE',
@@ -121,14 +129,23 @@ DATABASES = {
     }
 }
 
-
+"""DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'irc-database',
+        'USER': 'dani',
+        'PASSWORD': '1234',
+        'HOST': '127.0.0.1',
+        'PORT': '54320',
+    }
+}"""
 ASGI_APPLICATION = "irc_backend.routing.application"
 
 CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "channels_redis.core.RedisChannelLayer",
         "CONFIG": {
-            "hosts": [os.environ.get('REDIS_URL', 'redis://localhost:6379')],
+            "hosts": [os.environ.get('REDIS_TLS_URL', 'redis://localhost:6379')],
         },
     },
 }
