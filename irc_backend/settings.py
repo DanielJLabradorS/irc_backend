@@ -147,6 +147,7 @@ CHANNEL_LAYERS = {
         "CONFIG": {
             "hosts": [os.environ.get('REDIS_TLS_URL', 'redis://localhost:6379')],
         },
+        "ROUTING": "irc_backend.routing.channel_routing",
     },
 }
 
